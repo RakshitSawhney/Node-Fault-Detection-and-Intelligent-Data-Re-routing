@@ -16,18 +16,6 @@ In distributed networks, node failures can disrupt data transmission and degrade
 
 For more detailed information, please refer to the [Project Report](https://github.com/RakshitSawhney/Node-Fault-Detection-and-Intelligent-Data-Re-routing/blob/main/Project%20Report.pdf).
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/RakshitSawhney/Node-Fault-Detection-and-Intelligent-Data-Re-routing.git
-   cd Node-Fault-Detection-and-Intelligent-Data-Re-routing
-   ```
-
-2. Run:
-   ```python
-   python run.py
-   ```
 
 ---
 
