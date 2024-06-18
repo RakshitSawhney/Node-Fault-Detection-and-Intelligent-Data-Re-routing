@@ -1,6 +1,6 @@
 # Node Fault Detection and Intelligent Data Re-routing
 
-This project was an exploratory project done in college. The aim was to develop a system capable of detecting faults in network nodes and re-routing data intelligently to ensure continuous and efficient network communication.
+This repo contains the code for an exploratory project done as part of the course curriculum. The aim was to develop a system capable of detecting faults in network nodes and re-routing data intelligently to ensure continuous and efficient network communication.
 
 ## Project Description
 
